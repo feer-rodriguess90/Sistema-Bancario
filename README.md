@@ -46,3 +46,8 @@ Para versões futuras, o sistema poderá ser expandido com funcionalidades adici
 Se tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente. Todo feedback é bem-vindo!
 
 Happy coding! 👩🏽‍💻
+
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datavizwithfer/) 
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DataVizWithFer)
+
+
