@@ -1,6 +1,6 @@
 # 💰 Sistema Bancário - Bootcamp NTT DATA - Engenharia de Dados com Python 
 
-Este projeto faz parte do desafio do Bootcamp NTT DATA - Engenharia de Dados com Python, em parceria com a Digital Innovation One (DIO). O objetivo deste desafio é implementar um sistema bancário simples com três operações: depósito, saque e visualização de extrato.
+Este projeto faz parte do desafio do **Bootcamp NTT DATA - Engenharia de Dados com Python**, em parceria com a Digital Innovation One (DIO). O objetivo deste desafio é implementar um sistema bancário simples com três operações: depósito, saque e visualização de extrato.
 
 ## 🛠 Funcionalidades
 ### 1. Depósito
