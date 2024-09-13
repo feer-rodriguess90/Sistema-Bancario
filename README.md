@@ -24,7 +24,8 @@ Este projeto faz parte do desafio do **Bootcamp NTT DATA - Engenharia de Dados c
 
 ## Desafio Parte 2: Modularização e Novas Funcionalidades
 Nesta segunda parte do desafio, o sistema bancário foi aprimorado com foco na modularização do código e na adição de novas funcionalidades. 
-As operações principais foram transformadas em funções, e duas novas funções foram adicionadas: **criar usuário e criar conta bancária**. Novas Funcionalidades: <br>
+As operações principais foram transformadas em funções, e duas novas funções foram adicionadas: **criar usuário e criar conta bancária**. <br>
+Novas Funcionalidades: <br>
     
    1. **Criar Usuário (Cliente do Banco):**
    
