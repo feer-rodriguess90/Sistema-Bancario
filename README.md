@@ -22,7 +22,31 @@ Este projeto faz parte do desafio do **Bootcamp NTT DATA - Engenharia de Dados c
 - O sistema verifica o saldo antes de autorizar o saque.
 - O saldo e todas as transações (depósitos e saques) são exibidos no extrato.
 
-### Tecnologias Utilizadas
+## Desafio Parte 2: Modularização e Novas Funcionalidades
+Nesta segunda parte do desafio, o sistema bancário foi aprimorado com foco na modularização do código e na adição de novas funcionalidades. 
+As operações principais foram transformadas em funções, e duas novas funções foram adicionadas: **criar usuário e criar conta bancária**. Novas Funcionalidades: <br>
+    
+   1. **Criar Usuário (Cliente do Banco):**
+   
+   - O programa agora permite a criação de usuários (clientes).
+   - Os usuários são armazenados em uma lista e são compostos pelos seguintes dados:
+      -Nome
+      - Data de nascimento
+      - CPF (somente números)
+      - Endereço (formato: logradouro, nro - bairro - cidade/sigla estado)
+   - Validação de CPF: Não é permitido cadastrar mais de um usuário com o mesmo CPF.
+   
+   2. **Criar Conta Bancária:**
+   
+   - Foi adicionada a funcionalidade de criar contas correntes.
+   - Cada conta é composta por:
+      - Agência (fixo: "0001")
+      - Número da conta (sequencial, iniciando em 1)
+      - Usuário (vinculado à conta)
+   - O usuário pode ter mais de uma conta bancária.
+
+
+## Tecnologias Utilizadas
 - **Python:** Linguagem de programação utilizada para desenvolver o sistema.
 
 ## ⚙ Como Executar o Projeto
@@ -43,7 +67,8 @@ Este projeto faz parte do desafio do **Bootcamp NTT DATA - Engenharia de Dados c
 Para versões futuras, o sistema poderá ser expandido com funcionalidades adicionais, como transferências, limites personalizados de saque e integração com APIs externas.
   
 ## ✍🏼 Sugestões
-Se tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente. Todo feedback é bem-vindo!
+Se tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente. <br>
+Todo feedback é bem-vindo!
 
 Happy coding! 👩🏽‍💻
 
