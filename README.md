@@ -46,6 +46,10 @@ Novas Funcionalidades: <br>
       - Usuário (vinculado à conta)
    - O usuário pode ter mais de uma conta bancária.
 
+## Desafio: Modelagem do Sist. Bancário
+
+Atualizar a implementação do sistema bancário, para armazenae os dados de clientes e contas bancárias em **objetos** ao invés de dicionários. 
+
 
 ## Tecnologias Utilizadas
 - **Python:** Linguagem de programação utilizada para desenvolver o sistema.
