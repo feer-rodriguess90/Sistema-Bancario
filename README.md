@@ -48,7 +48,8 @@ Novas Funcionalidades: <br>
 
 ## Desafio: Modelagem do Sist. Bancário
 
-Atualizar a implementação do sistema bancário, para armazenae os dados de clientes e contas bancárias em **objetos** ao invés de dicionários. 
+Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em **objetos** ao invés de dicionários. 
+Atualização dos métodos que tratam as opções do menu, para funcionarem com as classes modeladas. 
 
 
 ## Tecnologias Utilizadas
